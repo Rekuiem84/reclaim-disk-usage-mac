@@ -7,7 +7,7 @@ A comprehensive guide to reclaiming disk space on macOS using terminal commands.
 ### Check available disk space
 
 ```bash
-df -h /
+df -h
 ```
 
 **Output explanation:**
